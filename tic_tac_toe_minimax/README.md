@@ -1,1 +1,0 @@
-Wanted to learn minimax. seems to work quite ok.
